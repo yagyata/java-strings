@@ -74,3 +74,13 @@ public class StringWordSplitCheckLength {
 
     }
 }
+
+
+//Input
+//Enter the text: hello world
+
+//Output
+//Word    Length
+//----------------
+//hello   5
+//world   5
