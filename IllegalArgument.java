@@ -33,7 +33,7 @@ public class IllegalArgument {
         String inputText = sc.next();
 
         // Calling the method that generates the exception
-        // generateException(inputText);
+        //generateException(inputText);
 
         // Calling the method that handles the exception
         handleException(inputText);
