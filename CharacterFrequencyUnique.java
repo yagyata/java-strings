@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class UniqueCharacters {
+public class CharacterFrequencyUnique {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a string: ");
@@ -116,3 +116,25 @@ public class UniqueCharacters {
         return result;
     }
 }
+
+/*
+Input:
+Enter a string: This is a String
+
+Output:
+Unique characters: T h i s   a S t r n g
+First non-repeating character: T
+
+Character Frequencies:
+T: 1
+h: 1
+i: 3
+s: 2
+ : 3
+a: 1
+S: 1
+t: 1
+r: 1
+n: 1
+g: 1
+*/
